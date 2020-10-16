@@ -1,7 +1,9 @@
 # Project: Image Style Transfer
-<img src="figs/night_proposal.jpg" width="250"/>
 
-<img src="output/output_1.jpg" width="250"/>
+<p float="left">
+  <img src="figs/night_proposal.jpg" width="250"/>
+  <img src="output/output_1.jpg" width="250"/>
+</p>
 
 ### [Full Project Description](output/Neural_Style_Transfer_final.pdf)
 
