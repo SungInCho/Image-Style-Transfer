@@ -1,5 +1,6 @@
-# Image Stye Transfer
+# Project: Image Stye Transfer
 
-### Doc folder
+### Output folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+The output directory contains analysis output, processed datasets, logs, or other processed things.
+

@@ -1,4 +1,4 @@
-# Image Stye Transfer
+# Project: Image Stye Transfer
 
 ### Doc folder
 

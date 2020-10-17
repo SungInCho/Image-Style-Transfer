@@ -1,5 +1,6 @@
-# Image Stye Transfer
+# Project: Image Stye Transfer
 
-### Doc folder
+### Code lib Folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+The lib directory contains various files with function definitions (but only function definitions - no code that actually runs).
+
