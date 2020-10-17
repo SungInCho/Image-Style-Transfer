@@ -5,7 +5,7 @@
   <img src="output/output_1.png" width="250"/>
 </p>
 
-### [Full Project Description](output/Neural_Style_Transfer_final.pdf)
+### [Full Project Description](doc/Neural_Style_Transfer_final.pdf)
 
 + Cho, Sung In sc4393@columbia.edu
 	
